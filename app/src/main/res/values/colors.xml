@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Color Palette -->
+    <color name="primary">#2D3436</color> <!-- Deep Slate -->
+    <color name="primaryVariant">#0984E3</color> <!-- Bright Blue -->
+    <color name="onPrimary">#FFFFFF</color>
+
+    <color name="secondary">#00CEC9</color> <!-- Robin's Egg Blue -->
+    <color name="secondaryVariant">#00B894</color> <!-- Mint -->
+    <color name="onSecondary">#FFFFFF</color>
+
+    <color name="background">#FDFDFD</color> <!-- Almost White -->
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#D63031</color>
+
+    <color name="text_primary">#2D3436</color>
+    <color name="text_secondary">#636E72</color>
+    <color name="divider">#DFE6E9</color>
+
+    <color name="accent_blue">#0984E3</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="soft_gray">#F1F2F6</color>
+</resources>
